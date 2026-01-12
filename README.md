@@ -1,16 +1,12 @@
-## Hi there 👋
+## ☁️ Microsoft Azure Certifications
 
-<!--
-**rexmartini/rexmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Certification | Badge |
+|--------------|-------|
+| **Azure Fundamentals (AZ-900)** | <a href="https://learn.microsoft.com/api/credentials/share/en-us/RexMartini-8469/BE9C5FF1AC4FCD27?sharingId=396F907C425A9606" target="_blank" rel="noopener"><img src="./microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals" width="120"/></a> |
+| **Azure Administrator Associate (AZ-104)** | <a href="https://learn.microsoft.com/api/credentials/share/en-us/RexMartini-8469/9B9F947B9D2BD1C8?sharingId=396F907C425A9606" target="_blank" rel="noopener"><img src="./microsoft-certified-associate-badge.svg" alt="Microsoft Certified: Azure Administrator Associate" width="120"/></a> |
+| **Azure Solutions Architect Expert (AZ-305)** | <a href="https://learn.microsoft.com/api/credentials/share/en-us/RexMartini-8469/52B8DD3367448731?sharingId=396F907C425A9606" target="_blank" rel="noopener"><img src="./microsoft-certified-expert-badge.svg" alt="Microsoft Certified: Azure Solutions Architect Expert" width="120"/></a> |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🎓 Degree
+|  |  |
+|:--|:--:|
+| **Master of Science (M.Sc.) in Engineering — Computer Science Engineering** | <a href="https://www.kau.se/en" target="_blank" rel="noopener"><img src="./KAU.svg" alt="Karlstad University" width="120"/></a> |
