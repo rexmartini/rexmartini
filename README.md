@@ -9,4 +9,4 @@
  ## 🎓 Degree
 |  |  |
 |:--|:--:|
-| **Master of Science (M.Sc.) in Engineering — Computer Science Engineering** | <a href="https://www.kau.se/en" target="_blank" rel="noopener"><img src="./KAU.svg" alt="Karlstad University" width="120"/></a> |
+| **Master of Science (M.Sc.) in Engineering — Computer Science Engineering** | <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2:1977822" target="_blank" rel="noopener"><img src="./KAU.svg" alt="Karlstad University" width="120"/></a> |
